@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+HMI Programming Software
+ <ul>
+  <li>FactoryTalk Optix Studio</li>
+  <li>Wonderware InTouch</li>
+  <li>FactoryTalk View</li>
+  <li>PanelBuilder32</li>
+  <li>Siemens WinCC</li>
+  <li>OMRON NT Series</li>
+  <li>CTC Interact</li>
+</ul> 
