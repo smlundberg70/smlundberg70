@@ -1,4 +1,5 @@
 ## 🔭 I’m currently working with Optix.
+![Rovema_Logo](https://github.com/user-attachments/assets/4b293c56-fb75-48f5-929c-df14bc7cd1b9)
 
 <!--
 **smlundberg70/smlundberg70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +25,5 @@ HMI Programming Software
   <li>OMRON NT Series</li>
   <li>CTC Interact</li>
 </ul> 
+
+This is my new comment.
